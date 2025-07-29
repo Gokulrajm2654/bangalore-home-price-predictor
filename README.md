@@ -15,16 +15,6 @@ A machine learning web application that predicts home prices in Bangalore based 
 
 ---
 
-## 📁 Project Structure
-
-bangalore-home-price-predictor/
-│
-├── artifacts/ # Pickled model and column files
-├── app.py # Flask backend app
-├── util.py # Utility: model loading & prediction
-├── index.html # Frontend HTML + JS
-├── requirements.txt # Python dependencies
-└── README.md # This file
 
 ## 🔧 Setup Instructions
 
